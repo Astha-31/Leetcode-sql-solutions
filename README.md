@@ -20,5 +20,5 @@ This repository showcases my ability to write clean, efficient queries and solve
 
 ---
 
-## 📂 Repository Structure
+
 
